@@ -2,7 +2,7 @@
 This Healthcare Report dashboard provides a comprehensive visualization of patient metrics, billing insights, and hospital trends using Power BI to drive data-informed healthcare decisions.
 
 # Dashboard
-<img width="1046" height="592" alt="Capture" src="https://github.com/user-attachments/assets/edd71465-384f-4fed-bf20-04ce617f40dc" />
+<img width="1161" height="652" alt="Screenshot 2026-04-18 120835" src="https://github.com/user-attachments/assets/3ce9f300-1c01-4b92-aaf7-74fd7380fc3e" />
 
 The Healthcare Analytics Dashboard is a comprehensive business intelligence solution designed to transform complex hospital data into actionable insights. By centralizing patient metrics, financial performance, and clinical trends, this tool enables healthcare administrators to monitor organizational health and improve operational efficiency through data-driven decision-making.
 
